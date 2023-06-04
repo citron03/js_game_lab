@@ -28,3 +28,7 @@ open /dist/index.html
 - local 이미지의 CORS 에러
   <br/>
   webpack-dev-server을 설정한다.
+
+### etc.
+
+- images are from pixabay
