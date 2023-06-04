@@ -23,11 +23,11 @@ open /dist/index.html
 
 - Object.defineProperty(exports, "\_\_esModule", { value: true });
   <br/>
-  타입스크립트 웹팩 설정이 필요하다. (브라우저 환경)
+  🍔 타입스크립트 웹팩 설정(ts-loader)이 필요하다. (브라우저 환경)
 
 - local 이미지의 CORS 에러
   <br/>
-  webpack-dev-server을 설정한다.
+  🍕 webpack-dev-server을 설정한다. (dev server를 통해 실행)
 
 ### etc.
 
